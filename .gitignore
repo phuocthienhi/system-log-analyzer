@@ -1,0 +1,10 @@
+# Ignore compiled executables
+*.exe
+*.o
+*.obj
+
+# Ignore local IDE configurations
+.vscode/
+
+# Ignore local testing log data
+data/
